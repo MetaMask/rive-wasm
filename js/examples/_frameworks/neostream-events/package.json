@@ -12,6 +12,6 @@
     "@rive-app/canvas": "file:../../../npm/canvas_single"
   },
   "devDependencies": {
-    "vite": "^4.4.5"
+    "vite": "^7.1.9"
   }
 }
